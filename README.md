@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Lou-Anne
-I am currently in the process of transitioning my career towards web development and programming, driven by a strong passion for technology and problem-solving. I have recently completed my first training in web development with OpenClassrooms, where I gained foundational skills in front-end and back-end development. To further deepen my knowledge and enhance my coding expertise, I will soon be enrolling in the renowned 42 School. I am excited about the opportunities and challenges this new path presents and look forward to building innovative digital solutions.
+I am currently in the process of transitioning my career towards web development and programming, driven by a strong passion for technology and problem-solving. I have recently completed my first training in web development with OpenClassrooms, where I gained foundational skills in front-end and back-end development. To further deepen my knowledge and enhance my coding expertise, I have enrolled in the renowned 42 School. I am excited about the opportunities and challenges this new path presents and look forward to building innovative digital solutions.
 
 ## My skills
 
